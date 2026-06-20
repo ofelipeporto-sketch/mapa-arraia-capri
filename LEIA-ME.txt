@@ -1,0 +1,38 @@
+═══════════════════════════════════════════════════════
+ ARRAIÁ DO CAPRI 2026 — PORTARIA COM CONTAGEM POR PESSOA
+ CCEE — Jardins Capri
+═══════════════════════════════════════════════════════
+Esta é a versão MAIS NOVA — substitui qualquer index.html
+anterior. Já inclui tudo (portaria + contagem incremental).
+
+ANTES DE ATUALIZAR: ☰ → ⚙️ → 💾 Exportar backup.
+(Seus dados ficam no navegador; atualizar não apaga nada.)
+
+ATUALIZAR: GitHub → Upload files → arraste este index.html
+→ Commit. Vercel republica em ~1 min.
+
+───────────────────────────────────────────────────────
+NOVO: MESA QUE ENCHE AOS POUCOS
+
+Cada mesa agora tem um CONTADOR de presença, não um
+liga/desliga. Na portaria:
+
+• Chega 1 pessoa da Mesa 05 → toque "+1 entrou".
+  O cartão mostra "1/6 DENTRO" (amarelo = parcial).
+• Chega mais gente → toque "+1" de novo. Vira 2/6, 3/6…
+• Quando completa (6/6), o cartão fica verde "COMPLETA".
+
+• Chegaram vários de uma vez, ou precisa corrigir?
+  Toque no número "3/6 •••" → abre o ajuste:
+    − e +  para somar/tirar pessoas
+    "Completar mesa" marca todos de uma vez
+    "Zerar" reseta a mesa
+    "Lugares esperados" muda o total (ex.: mesa de 6
+     que só virá com 4 pessoas → ajuste para 4)
+
+• O topo mostra: total de PESSOAS dentro + quantas
+  mesas estão completas / parciais.
+
+Avulsos continuam um a um (✓ DAR ENTRADA).
+Quem não pagou aparece em vermelho com "Receber e
+confirmar" antes de liberar.
