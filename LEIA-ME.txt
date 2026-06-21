@@ -1,38 +1,45 @@
 ═══════════════════════════════════════════════════════
- ARRAIÁ DO CAPRI 2026 — PORTARIA COM CONTAGEM POR PESSOA
+ ARRAIÁ DO CAPRI 2026 — CAIXA: PATROCÍNIOS + DESPESAS
  CCEE — Jardins Capri
 ═══════════════════════════════════════════════════════
-Esta é a versão MAIS NOVA — substitui qualquer index.html
-anterior. Já inclui tudo (portaria + contagem incremental).
+Versão MAIS NOVA — inclui tudo (portaria + contagem por
+pessoa + caixa com patrocínios e despesas).
+
+⚠️ SEM PRESSA HOJE: isto é financeiro, não portaria.
+Pode atualizar no fechamento da noite ou amanhã, com
+calma. Não precisa mexer no sistema durante a festa.
 
 ANTES DE ATUALIZAR: ☰ → ⚙️ → 💾 Exportar backup.
-(Seus dados ficam no navegador; atualizar não apaga nada.)
-
-ATUALIZAR: GitHub → Upload files → arraste este index.html
+ATUALIZAR: GitHub → Upload files → arraste o index.html
 → Commit. Vercel republica em ~1 min.
 
 ───────────────────────────────────────────────────────
-NOVO: MESA QUE ENCHE AOS POUCOS
+COMO LANÇAR
 
-Cada mesa agora tem um CONTADOR de presença, não um
-liga/desliga. Na portaria:
+☰ Menu → 🤝 Lançar patrocínio / despesa
+(ou pela aba 💰 Financeiro → botões "+ Patrocínio" e
+"+ Despesa").
 
-• Chega 1 pessoa da Mesa 05 → toque "+1 entrou".
-  O cartão mostra "1/6 DENTRO" (amarelo = parcial).
-• Chega mais gente → toque "+1" de novo. Vira 2/6, 3/6…
-• Quando completa (6/6), o cartão fica verde "COMPLETA".
+Cada lançamento: tipo (patrocínio ou despesa), descrição
+(ex.: "DNA Academy — Cota Ouro"), valor e forma de
+pagamento. Toque num lançamento da lista para editar
+ou excluir.
 
-• Chegaram vários de uma vez, ou precisa corrigir?
-  Toque no número "3/6 •••" → abre o ajuste:
-    − e +  para somar/tirar pessoas
-    "Completar mesa" marca todos de uma vez
-    "Zerar" reseta a mesa
-    "Lugares esperados" muda o total (ex.: mesa de 6
-     que só virá com 4 pessoas → ajuste para 4)
+───────────────────────────────────────────────────────
+O QUE VOCÊ VÊ NO FINANCEIRO
 
-• O topo mostra: total de PESSOAS dentro + quantas
-  mesas estão completas / parciais.
+• Resumo do caixa:
+    Vendas (mesas + avulsos)
+    + Patrocínios
+    = Total de entradas
+    − Despesas
+    = RESULTADO LÍQUIDO do evento
 
-Avulsos continuam um a um (✓ DAR ENTRADA).
-Quem não pagou aparece em vermelho com "Receber e
-confirmar" antes de liberar.
+• Entradas por forma de pagamento (hoje / acumulado) —
+  agora já incluem os patrocínios.
+
+• Listas de patrocínios e de despesas, editáveis.
+
+• "Copiar fechamento" e "CSV completo" já saem com
+  tudo: vendas, patrocínios, despesas e o líquido —
+  prontos para a prestação de contas.
